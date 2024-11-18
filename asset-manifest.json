@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/recipe-app/static/css/main.352e17c3.css",
+    "main.js": "/recipe-app/static/js/main.88bf22e4.js",
+    "static/media/logo1.jpg": "/recipe-app/static/media/logo1.48a14a6487a671267cd7.jpg",
+    "static/media/salad.jpg": "/recipe-app/static/media/salad.631eb4bf28c2db7513e1.jpg",
+    "static/media/cooking.png": "/recipe-app/static/media/cooking.0d60104637ec4ab19653.png",
+    "static/media/steak.jpg": "/recipe-app/static/media/steak.074fe398ce09512c6327.jpg",
+    "static/media/burger2.jpg": "/recipe-app/static/media/burger2.280168dd5acbc0d5b2e4.jpg",
+    "static/media/salad2.jpg": "/recipe-app/static/media/salad2.5d69b2ecb1a590757199.jpg",
+    "static/media/calorie.png": "/recipe-app/static/media/calorie.021436f95613c6107186.png",
+    "static/media/clock.jpg": "/recipe-app/static/media/clock.76dc460f8efe98a81bbd.jpg",
+    "static/media/ingred.jpg": "/recipe-app/static/media/ingred.1b288071e2406a33eade.jpg",
+    "static/media/burger.jpg": "/recipe-app/static/media/burger.1f1c4260fddbda1e57d1.jpg",
+    "static/media/smallphoto.jpg": "/recipe-app/static/media/smallphoto.4ce882f6489c288c61f3.jpg",
+    "index.html": "/recipe-app/index.html",
+    "main.352e17c3.css.map": "/recipe-app/static/css/main.352e17c3.css.map",
+    "main.88bf22e4.js.map": "/recipe-app/static/js/main.88bf22e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.352e17c3.css",
+    "static/js/main.88bf22e4.js"
+  ]
+}
